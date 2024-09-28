@@ -706,7 +706,7 @@ button {
 }
 
 /* -----------------------------------  */
-@media screen and (min-width: 1441px) and (max-width: 2560px) {
+@media screen and (min-width: 1441px) {
   .container {
     display: flex;
     flex-direction: column;
